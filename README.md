@@ -11,3 +11,5 @@ I built this using Open CV and Python. Pretty simple and basic program which rec
 5. cv2
 
 ## Sample Test Video 👇
+
+[!gif]:https://github.com/Anurag5086/Face-Recognition/blob/master/Face-Recognition.gif "GIF"
