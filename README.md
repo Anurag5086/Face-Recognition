@@ -1,6 +1,6 @@
 # Face-Recognition
 
-I built this using Open CV and Python. Pretty simple and basic program which recognizes faces and displays their name with a rectangle box. 
+I built this using Open CV and Python. Pretty simple and basic program which recognizes faces and displays their name with a rectangular box. 
 
 ## Libraries used - 
 
